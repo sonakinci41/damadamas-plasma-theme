@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=DamaDamas
+Name[es]=DamaDamas
+comment=Yellow colors icons for plasma desktop
+Comment[es]=Amarillo color iconos para Plasma Desktop
+X-KDE-PluginInfo-Author=David Linares (Mcder3)
+X-KDE-PluginInfo-Email=sonakinci41@gmail.com
+X-KDE-PluginInfo-Name=damadamas
+X-KDE-PluginInfo-Version=0.1.0
+X-KDE-PluginInfo-Website=https://github.com/sonakinci41/damadamas-plasma-theme
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=CC BY-SA
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=DamaDamas
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
