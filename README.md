@@ -1,1 +1,1 @@
-![alt tag](http://i.hizliresim.com/W0qqgY.png)
+![alt tag](http://i.hizliresim.com/EgmmRZ.png)
